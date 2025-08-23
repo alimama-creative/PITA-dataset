@@ -1,5 +1,5 @@
 # PITA-dataset
-Dataset for paper: T-Stars-Poster: A Framework of Product-Centric Advertising Image Design
+Dataset for paper: T-Stars-Poster: A Framework of Product-Centric Advertising Image Design (CIKM2025)
 
 The dataset is currently under review and will be made open source in September.
 
