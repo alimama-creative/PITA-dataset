@@ -1,7 +1,7 @@
 # PITA-dataset
 Dataset for paper: T-Stars-Poster: A Framework of Product-Centric Advertising Image Design (CIKM2025)
 
-The dataset can be download [here]("https://tianchi.aliyun.com/dataset/209898")
+The dataset can be download **[here]([https://eff.org](https://tianchi.aliyun.com/dataset/209898))**.
 
 ## Description
 The PITA dataset is about product-centric advertising image design, and it contains 38,017 records. The PITA dataset is provided by Alibaba.
